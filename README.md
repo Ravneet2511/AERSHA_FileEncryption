@@ -32,7 +32,7 @@ g++ -o hybrid_encryption AERSHA.cpp -Isst -lcrypto
 
 ./hybrid_encryption
 ```
-### 📂 File Structure
+## 📂 File Structure
 ```Structure
 .
 ├── hybrid_enc.cpp     # Main source file
